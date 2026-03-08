@@ -45,6 +45,8 @@ pip install web3 eth-account
 
 Scripts target a local Tempo devnet (2-node setup). All keys are standard Hardhat/Anvil dev keys.
 
+For the official Tempo Python SDK, see [pytempo](https://github.com/tempoxyz/pytempo) — type-safe transaction builders, fee sponsorship helpers, and gas batching.
+
 ## What's Tempo?
 
 Payments blockchain backed by Stripe and Paradigm. Native account abstraction, TIP-20 stablecoin standard, fee sponsorship, on-chain CLOB, and compliance primitives.
